@@ -18,5 +18,6 @@ Here is what im up to:
 
 <hr />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manucho7&show_icons=true&locale=en&layout=compact" alt="manucho7" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manucho7&show_icons=true&locale=en" alt="manucho7 stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manucho7&show_icons=true&locale=en&layout=compact" alt="manucho7" /></p>
+
