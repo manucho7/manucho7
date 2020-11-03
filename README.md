@@ -7,7 +7,7 @@
 Here is what im up to:
 <br />
 - 🔭 I’m currently working on ...some react/node projects
-- 🌱 I’m currently learning ... react ecosystem, redux, react-native
+- 🌱 I’m currently learning ... react ecosystem, redux, react-native, typescript
 - 📫 How to reach me: ... manuel.blanco77@gmail.com
 - ⚡ Fun fact: morning and late-night coding sessions enthusiast :)
 
