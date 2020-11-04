@@ -9,7 +9,6 @@ Here is what im up to:
 - 🔭 I’m currently working on ... some MERN stack projects
 - 🌱 I’m currently learning ... react ecosystem, react-native, typescript
 - 📫 How to reach me: ... manuel.blanco77@gmail.com
-- ⚡ Fun fact: morning and late-night coding sessions enthusiast :)
 
 <hr />
 <h3 align="left">Languages and Tools:</h3>
